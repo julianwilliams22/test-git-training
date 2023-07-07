@@ -1,0 +1,30 @@
+https://arp.stayahead.com/rgw4/
+
+Username 1: git
+Password 1: fLypper7
+
+client 31
+
+git log --since=1.day --pretty=oneline
+
+git fetch
+git diff origin/main
+
+
+after creating repo
+default branch is usually 'master'
+however on github it is 'main'
+
+each commit results in the brajch being changed to point to the new commit object
+
+master is just like any other branch
+
+git checkout changes which branch HEAD points to
+HEAD is pointer to a pointer
+HEAD is pointer to active branch
+
+Checkout of earlier commit object will cause a 'detached head'
+HEAD no longer points to a branch
+With a detached HEAD, any further commits will affetcively create a new branch whihc can't be referenced
+
+
