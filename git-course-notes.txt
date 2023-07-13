@@ -1,3 +1,6 @@
+stayahead.com/sat_delegate
+stuartb@stayahead.com
+
 https://arp.stayahead.com/rgw4/
 
 Username 1: git
